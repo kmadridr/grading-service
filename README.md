@@ -19,7 +19,7 @@ Follow these steps to get the Grading Service up and running on your local machi
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/grading-service.git
+git clone https://github.com/kmadridr/grading-service.git
 ```
 
 2. Navigate to the project directory:
